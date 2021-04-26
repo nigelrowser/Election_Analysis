@@ -2,4 +2,4 @@
 Python
 
 Results
-![3DScatterwiththePCA.png](3DScatterwiththePCA.png)
+![Screen Shot 2021-04-25 at 8.22.02 PM.png](Screen Shot 2021-04-25 at 8.22.02 PM.png)
